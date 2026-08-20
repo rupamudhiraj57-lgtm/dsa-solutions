@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rupamudhiraj57-lgtm/dsa-solutions/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rupamudhiraj57-lgtm/dsa-solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rupamudhiraj57-lgtm/dsa-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
